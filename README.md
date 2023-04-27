@@ -4,12 +4,12 @@ In my free time, I enjoy learning about new technologies and staying up to date 
 
 I am excited to be a part of the GitHub community and to share my work with others. I look forward to collaborating with other developers and contributing to a wide range of projects. If you have any questions or would like to work together on a project, feel free to reach out to me on GitHub. I would love to hear from you!
 
-- 👋 Hi, I’m Hamed Tavakoli aka. Qerope
-- 👀 I’m interested in Mobile, Web, Video Games
+- 👋 Hi, I’m Hamed aka. Qerope
+- 👀 I’m interested in Technology and Computers
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me HamedTava@outlook.ca
-- 🌐 Check out my website Qerope.me
+- 📫 How to reach me HamedTava@outlook.com
+- 🌐 Check out my website Qerope.me *under_maintenance
 
 <!---
 Qerope/Qerope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
