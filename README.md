@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Modeling
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me HamedTava@outlook.com
-- 🌐 Check out my website Qerope.me *under_maintenance
+- 🌐 Check out my website [Qerope.co](https://Qerope.co)
 
 <!---
 Qerope/Qerope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
