@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hamed Tavakoli Dastjerdi (aka Qerope)
+# 👋 Hi, I’m Hamed Tavakoli Dastjerdi
 
 🎓 CS @ University of Ottawa  
 🔧 Embedded Systems • DevOps • GPU Compilers  
