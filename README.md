@@ -3,7 +3,7 @@
 🎓 CS @ University of Ottawa  
 🔧 Embedded Systems • DevOps • GPU Compilers  
 📍 Ottawa, Canada  
-🌐 https://Qerope.co  
+🌐 https://Qerope.me
 
 ---
 
